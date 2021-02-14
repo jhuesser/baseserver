@@ -1,0 +1,5 @@
+---
+- name: restart_ssh
+  shell: sleep 3; systemctl restart sshd
+  async: 1
+  poll: 0

@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: "Jonas Huesser"
+  company: ""
+  license: ""
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xemial
+    - trusty
+    - bionic
+    - disco
+  categories:
+  - server
+  dependencies: []
